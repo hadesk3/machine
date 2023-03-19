@@ -1,0 +1,14 @@
+D:\C#\TicketVenderMachine\TicketVenderMachine\bin\Debug\TicketVenderMachine.exe.config
+D:\C#\TicketVenderMachine\TicketVenderMachine\bin\Debug\TicketVenderMachine.exe
+D:\C#\TicketVenderMachine\TicketVenderMachine\bin\Debug\TicketVenderMachine.pdb
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.csproj.AssemblyReference.cache
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.csproj.SuggestedBindingRedirects.cache
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.Properties.Resources.resources
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.csproj.GenerateResource.cache
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.csproj.CoreCompileInputs.cache
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.exe
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.pdb
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.Form1.resources
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.Form2.resources
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.Form3.resources
+D:\C#\TicketVenderMachine\TicketVenderMachine\obj\Debug\TicketVenderMachine.Form4.resources
